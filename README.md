@@ -1,2 +1,2 @@
-# Gina-app
+# gina-app
 Flutter app project
